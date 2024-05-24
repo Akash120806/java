@@ -1,2 +1,0 @@
-# java
-first programming
