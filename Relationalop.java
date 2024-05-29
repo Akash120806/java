@@ -8,6 +8,7 @@ public class Relationalop {
         boolean resul =  x < y ;
 
         System.out.println(resul);
+        System.out.println(!resul);
     }
     
 }
