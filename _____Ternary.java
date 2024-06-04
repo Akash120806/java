@@ -1,4 +1,4 @@
-public class Ternary {
+public class _____Ternary {
     public static void main(String[] args) {
         int r=98;
         int x=054;
