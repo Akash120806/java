@@ -1,6 +1,7 @@
 public class ____Switch {
     public static void main(String []args){
-        int n=43;
+        int n=
+        y3;
         switch (n){
             case 1:
             System.out.println("monday");
