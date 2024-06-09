@@ -1,0 +1,1 @@
+{"name":"Local: Nested2","url":"e:\\Programing\\java\\Nested2.java","tests":[{"id":1717614011659,"input":"","output":"95\n*\nsunday\n96\n*\nmonday\n97\n*\ntuesday\n98\n*wednesday\n99\n*\nthrusday\n100\n*\nsunday\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programing\\java\\Nested2.java","group":"local","local":true}
