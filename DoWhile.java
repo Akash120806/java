@@ -2,7 +2,7 @@ public class DoWhile {
     public static void main(String[] args) {
         int  x=96;
         int y=4;
-        do{
+       do {
             int j=0;
             while(j<=2){
                 System.out.println("*");

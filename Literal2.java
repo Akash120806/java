@@ -2,8 +2,8 @@ public class Literal2 {
     public static void main(String a[])
     {
         float f=56f;
-        double f=56;
-        double fo=56.0;
+        double fi=56f;
+        double fo=56;
         System.out.println(f);
         System.out.println(fo);
     }
