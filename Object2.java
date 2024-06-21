@@ -9,7 +9,6 @@ class Player{
     public void mplayer()
     {
         System.err.println("playin music for free");
-
     }
     public String dvd (String abc, int cost)
     {

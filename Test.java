@@ -1,3 +1,4 @@
+
 public class Test {
     public static void main(String[] args) {
      double a=5.43;
@@ -8,7 +9,9 @@ public class Test {
 
 
         System.out.println(re+" ");
+       // System.out.printf(" %d years%n", age);
         System.out.printf("%.2f",re);
+        double t r=  ("%.2f",re); 
 
         
         //System.out.println(a/b +r);

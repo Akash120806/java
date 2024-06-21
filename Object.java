@@ -1,8 +1,8 @@
   class InnerObject {
     public int add(int n1,int n2){
         int r=n1+n2;
-        System.out.println("r");
-        return r;
+        System.out.println(r);
+        return 0;
     }
     
  
@@ -22,5 +22,5 @@ public class Object {
     int res= inn.add( num1 ,num2);
     System.out.println(res);
     
-object2}
+ }
 }

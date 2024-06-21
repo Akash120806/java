@@ -1,4 +1,4 @@
-public class ELse {
+public class Else {
     public static void main(String[] args) {
         int x= 867;
         int y=760;
