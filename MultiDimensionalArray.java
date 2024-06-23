@@ -11,6 +11,8 @@ public class MultiDimensionalArray {       //  MultiDimensional- an array which 
         for(int j = 0;j<4;){
             num[i][j]=i*8 +8*j;
             j++;
+            //i++;
+
         }
         i++;
     }    
@@ -19,7 +21,7 @@ public class MultiDimensionalArray {       //  MultiDimensional- an array which 
             System.out.print(num[i][j] +" "); 
             j++;
         }
-        System.out.println(" ");// for th new line
+        System.out.println(" ");//n for th new line
         i++;
     }    
                         
