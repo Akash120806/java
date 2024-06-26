@@ -1,3 +1,4 @@
+package tools;
 class Pattern // pattern printing
 {
     public static void main(String a[])
