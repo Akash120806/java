@@ -1,7 +1,4 @@
-
-
-
-
+import java.util.Arrays;
 
 class Fun{
     public int[][] add(){
@@ -27,8 +24,8 @@ class Fun{
         Fun fu=new Fun();
         int[][]  num=fu.add();
         for(int r[]:num){
-            for(int row:r){
-                System.out.print(row);
+      //      for(int row:r){
+                System.out.println(Arrays.toString(r));
             }
         }
 
@@ -36,7 +33,7 @@ class Fun{
 
     
     
-}
+
 
 
 

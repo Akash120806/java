@@ -12,10 +12,7 @@ public class Array {
         return num;
 
     }
+    
 
-    public int[][] num() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'num'");
-    }
     
 }
