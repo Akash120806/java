@@ -8,7 +8,7 @@ public class Nested2 {
             int j=1;
             while(j<=9){
                 switch (j)
-                )
+                
                 {
                     
                     case 1:
