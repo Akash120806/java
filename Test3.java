@@ -1,7 +1,7 @@
 class Compute
 {
     String average(int A[], int N)
-    {
+    { int e=N*0;
         int s =0;
         for(int i=0;i<A.length;i++){
              int a=A[i];

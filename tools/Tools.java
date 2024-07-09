@@ -4,10 +4,10 @@ package tools;
  public class Tools{
     
     
-    public int[][] num(){
+    public int[][] num(int f){
         
       //  int a =(int)(Math.random())*100;
-        
+        int e = f*0;
         int[][] a= new int[4][3];
         for(int c=0;c<4;c++){
             for (int d=0;d<3;d++){
