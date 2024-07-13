@@ -19,10 +19,22 @@ class Compute
     
 }
 public class Test3 {
-    public static void main(String[] args) {
-        Compute compute = new Compute();
+    public static String main(String[] args) {
+      /*  Compute compute = new Compute();
         int[] A = {1, 2, 3, 4, 5};
         String avg = compute.average(A, A.length);
-        System.out.println("Returned Average: " + avg);
+        System.out.println("Returned Average: " + avg);*/
+        
+            // code here
+            String c="a";
+
+            String y="";
+            String ch="a";
+            if (ch.equals(c)) {
+                y += "YES";
+            }
+    
+return y;    
+    
     }
 }
