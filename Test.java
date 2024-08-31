@@ -1,23 +1,10 @@
-
+import packages.TestObject;
 public class Test {
     public static void main(String[] args) {
-     double a=5.43;
-        String x="ft";
-        double b=2.653;
-        int r=(int)(a/b);// remove no. after decimals
-        double re=a/b;
-
-
-        System.out.println(re+" ");
-       // System.out.printf(" %d years%n", age);
-        System.out.printf("%.2f",re);
-        double t r=  ("%.2f",re); 
-
-        
-        //System.out.println(a/b +r);
-
-
-        
+        TestObject ou=new TestObject();
+        ou.Op(7, 8);
+        System.out.println(ou);
+        b
     }
     
 }
