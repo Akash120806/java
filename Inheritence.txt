@@ -1,0 +1,5 @@
+Ihneritence
+* IT is use to borrow properties and methods from existing class
+  It is declared using extend methods
+  Multiple inheritance is not supported in j
+  ava through class
