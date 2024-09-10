@@ -34,6 +34,7 @@ class Encapsulation1 {
         public static void main(String[] args) {
             Encapsulation1 en = new Encapsulation1("Programming", 13);
             en.setAge(35);
+            
             System.out.println(en.getAge());
         }
     }
