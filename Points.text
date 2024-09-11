@@ -1,0 +1,6 @@
+Inheritance/
+**In a class there is no constructor exists with same type.
+**If we have constructor in base/Parent class the we can dirctly call it from child/derived class if it doesn't have its own constructor.
+**If derived/child class has its own contructor it will call or prints the Parent class constructor first then child class constructor. 
+##**Overloading - Means having more than one constructor in the class.
+**If the parent class is overloaded then by default the child/derived class calls the constructor of parent class ehich have no argument.
