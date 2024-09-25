@@ -1,8 +1,11 @@
+
+import java.util.Scanner;
+
  
  
  class Calculator {
     public String Calc2(int t,int f){
-        int i=1;
+      Scanner sc= new Scanner(System.in)
        
          for(;i<=10;){
            
