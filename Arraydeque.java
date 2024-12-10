@@ -18,7 +18,8 @@ public class Arraydeque {
 
         
         deque.removeFirst();  // Removes the first element
-        deque.removeLast();   // Removes the last element
+       // deque.removeLast();   // Removes the last element
+        System.out.println(deque.	peek());
 
        
         System.out.println(  deque);

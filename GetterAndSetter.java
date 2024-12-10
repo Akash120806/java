@@ -1,12 +1,12 @@
 class GetSet{
-   private  int id;
-     private String name;
+    private  int id;
+    private String name;
     public String getname(){
         return name;
 
     }
     public void Setname(String na){
-        name=na;
+        String name=na;
     }
     public int getid() {
         return id;

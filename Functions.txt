@@ -1,0 +1,3 @@
+CharsToRemove.indexOf(currentChar);//To rmove vharacters form string
+
+
