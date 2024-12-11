@@ -57,6 +57,7 @@ public class Abstract {
         pa.Str();    
         pa.Parent();
         pa.fun();    
+        pa.greet();
     }
     
 }
