@@ -9,7 +9,7 @@ public class Comparison {
         //and all the elements must be same and also order must be same
         Arrays.sort(num1);
         Arrays.sort(num2);
-        System.out.println(Arrays.equals(num1, num2));
+            System.out.println(num2==num1);
 
 
 

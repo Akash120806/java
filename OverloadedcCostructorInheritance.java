@@ -7,7 +7,7 @@ class New{
     }
     New(int a){
         
-        System.out.println(a);
+        System.out.println(a+"you are in constructor");
     }
  }
  class Der extends New{
@@ -40,12 +40,12 @@ class New{
     Gc(int d,int e){
         
         super(d);
-        System.out.println("you are in grand child cons with no args");
+        System.out.println("you are in grand child cons with args");
     }
  }
  class OverloadedcCostructorInheritance {
     public static void main(String[] args) {
-        Gc g=new Gc(0,6);
+        Gc g=new Gc();
         
     }
     

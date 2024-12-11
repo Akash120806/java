@@ -14,6 +14,6 @@ class Dog extends Test{
      Dog de=new Dog();
     de.Str();
     de.hr();  
-    }}  
+    }} } 
 
 

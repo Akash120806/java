@@ -40,6 +40,8 @@ public class Str {
         System.out.println(tr.indexOf("ramming",13));/*heere it will search for ramming but after the index no 13 as there is mention
         to search after the given index no;*///////////
         System.out.println(rep.equals("u"));
+            // Convert the entire string into a char array
+            char[] charArray = st.toCharArray();
 
 
 
