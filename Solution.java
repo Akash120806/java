@@ -37,6 +37,7 @@
        // so.common_element([1,2,3],);
        for(int i:arr){
         System.out.println(i);
+        
 
        }
     

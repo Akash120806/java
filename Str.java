@@ -42,6 +42,7 @@ public class Str {
         System.out.println(rep.equals("u"));
             // Convert the entire string into a char array
             char[] charArray = st.toCharArray();
+            System.out.println(tr.lastIndexOf(sst2));
 
 
 

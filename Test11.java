@@ -10,6 +10,7 @@ public class Test11 {
         String st="The problem solving skill";
         String r=st.substring(1,10);
         System.out.println(r);
+        System.out.println(Integer.toString(86576));
     }
     
 }

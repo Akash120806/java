@@ -14,6 +14,9 @@ abstract class Abs{
    
     abstract public void Parent();
    abstract void greet();
+   void main(String t){
+    System.out.println(t);
+   }
 }
 abstract class Parents extends Abs{
    // we cant make object of this class and the above class because these are abstract classes
@@ -48,7 +51,7 @@ class Greet extends Parents{
             System.out.println("Hello");
     
         }
-
+    
 }
 
 public class Abstract1 {
