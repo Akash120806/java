@@ -4,6 +4,7 @@ import java.util.HashSet;
 public class Hashset3 {
     public static void main(String[] args ) {
         HashSet <Integer> hash= new HashSet<>();
+        HashSet<Double> set=new HashSet<>();
         hash.add(45);
         hash.add(89);
         hash.add(54);

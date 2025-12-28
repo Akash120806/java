@@ -1,9 +1,10 @@
-  import java.util.Scanner;
+  import java.util.*;
 import javax.lang.model.type.ArrayType;
 
 
  class Arraylist {
     public int  Arraylist(){
+        
         Scanner sc= new Scanner(System.in);
         int r=sc.nextInt();
         int s=sc.nextInt();
@@ -16,8 +17,6 @@ import javax.lang.model.type.ArrayType;
         }
         return result;
         
-        
-
 
         
 

@@ -1,6 +1,7 @@
 import java.util.HashSet;
-//import java.util.Iterator;
-public class Iterator {
+import java.util.Iterator;
+
+public class Itterator {
     public static void main(String [ ] args){
         HashSet newset=new HashSet();
         
@@ -10,16 +11,19 @@ public class Iterator {
         newset.add(89);
         newset.add(82);
         System.out.println(newset);
-       System.out.println( newset.size());
+       // System.out.println(newset);
+    /* System.out.println( newset.size());
         if ( newset.contains(88)){
         System.err.println("yes");}
-        System.out.println(" ");
+        System.out.println(" ");*/
 
 
-        java.util.Iterator 
-        iter= newset. iterator();
-        while(iter.hasNext())
-        System.out.print("["+iter.next()+"]");
+       
+        Iterator iter= newset. iterator();
+        System.out.println(iter.next());
+        System.out.println(iter.hasNext());
+      //  iter.remove();
+        System.out.println(newset);
        
     }
     

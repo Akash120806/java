@@ -19,6 +19,10 @@ public class HashMap1 {
         System.out.println(newmap.get("russ"));// this statement will give the value of key
         
        }
+       System.out.println(newmap);
+       System.out.println(newmap.remove("indonesia"));
+       System.out.println(newmap);
+       System.out.println(newmap.size());
     }
     
 }

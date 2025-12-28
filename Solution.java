@@ -1,7 +1,7 @@
 
   import java.util.*;
 
-  class Test{
+  class Solution{
     public static void main(String[] args) {
         
      
@@ -33,7 +33,7 @@
 
 
         }
-        ArrayList<Integer> arr=so.common_element(v1,v2);
+        ArrayList<Integer> arr=((Object) so).common_element(v1,v2);
        // so.common_element([1,2,3],);
        for(int i:arr){
         System.out.println(i);

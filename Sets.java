@@ -2,6 +2,7 @@ import java.util.HashSet;
 public class Sets {
     public static void main(String []args){
         HashSet<Integer> set=new HashSet();
+        HashSet<Integer> set1=new HashSet<>();
         set.add(0);
         set.add(01);
         set.add(02);

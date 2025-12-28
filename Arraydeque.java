@@ -10,19 +10,19 @@ public class Arraydeque {
         deque.addLast(30);
 
         
-        System.out.println( deque);
+    //     System.out.println( deque);
 
         
-        System.out.println( deque.getFirst());  
-        System.out.println( deque.getLast());    
+    //     System.out.println( deque.getFirst());  
+    //     System.out.println( deque.getLast());    
 
         
-        deque.removeFirst();  // Removes the first element
-       // deque.removeLast();   // Removes the last element
-        System.out.println(deque.	peek());
+    //     deque.removeFirst();  // Removes the first element
+    //    // deque.removeLast();   // Removes the last element
+       System.out.println(deque.	peek());
 
        
-        System.out.println(  deque);
+    //     System.out.println(  deque);
     }
 }
 
