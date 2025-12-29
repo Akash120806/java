@@ -19,7 +19,7 @@ public class MultiDimensionalArray {       //  MultiDimensional- an array which 
     }    
     for(int i=0; i<3;){
         for(int j = 0;j<4;){
-            System.out.print(num[i][j] +" "); 
+            System.out.print("["+num[i][j]+"]"+ " "); 
             j++;
         }
         System.out.println(" ");//n for th new line

@@ -1,4 +1,3 @@
-
 import java.util.*;
 
 public class ArrayList22 {
@@ -28,4 +27,3 @@ public class ArrayList22 {
     }
     }
    
-

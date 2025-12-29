@@ -1,6 +1,8 @@
 class GetSet{
    private  int id;
      private String name;
+     private int app;
+
     public String getname(){
         return name;
 
@@ -13,9 +15,17 @@ class GetSet{
 
     }
     public void Setid(int i){
+        
         id=i;
     }
+    void Setapp(){
+        
+    }
 
+     void Getapp(){
+
+    }
+    
 }
 
 

@@ -1,4 +1,4 @@
-class Test {
+class Solution {
     public static void main(String[] args) {
         int[] nums = { 1, 1, 0, 1, 1, 1 };
         int j = 0;

@@ -9,11 +9,11 @@ class Test{
     }  
     
 class Dog extends Test{  
-    void hr(){    public static void main(String args[]){  
+       public static void main(String args[]){  
      Test te =new Test();  
      Dog de=new Dog();
     de.Str();
-    de.hr();  
+      
     }}  
 
 

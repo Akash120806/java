@@ -1,12 +1,18 @@
 public class While2 {
     public static void main(String[] args) {
-        int x=75;
-        int y=90;
-        while(y/x==1){
-            x=x+5;
-            System.out.println("not found correct value of x" );
+        int[] nums = { 1, 1, 0, 1, 1, 1 };
+        int j = 0;
+        int n = 0;
+        for (int i = 0; i < nums.length - 1; i++) {
+            if (nums[i] == nums[i + 1]) {
+                n++;
+            } else {
+                if (n > j) {
+                    j = n;
+                }
+                n = 0;
+            }
         }
-        System.out.println(x);
     }
-    
+
 }

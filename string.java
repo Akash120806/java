@@ -1,4 +1,4 @@
 
-public enum string {
+public  string {
 
 }
