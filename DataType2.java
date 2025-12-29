@@ -8,6 +8,7 @@ public class DataType2
         char k = 'c';
 
         boolean b = true;
+        System.out.println(b);
     }
     
 }

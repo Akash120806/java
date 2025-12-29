@@ -15,7 +15,7 @@ public class EnhancedLoop {
         int[][] r= or.num(0);
         for(int[]u:r){
             for(int ch:u){
-                System.out.print("["+ch+"]");
+              //  System.out.print("["+ch+"]");
 
             }
             System.out.println(" ");

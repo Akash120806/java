@@ -23,7 +23,7 @@ class Dev extends Cons{
 
 public class InheritanceConstructor {
     public static void main(String[] args) {
-        Dev co= new Dev();
+        Dev co= new Dev(4);
     }
     
    

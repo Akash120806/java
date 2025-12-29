@@ -24,6 +24,7 @@ public class ArrayList22 {
        arr.addAll(arr1);//we can add only the collections in ArrayList not a array so it will add the arr1 to arr but at last to add it on any Specific index or in the first we have to provide index no. just we use in add function
        System.out.println(arr.indexOf(82));//give the index no. of the element
        // if the output is -1 it means that the element is not on the list 
+       System.out.println();
     }
     }
    

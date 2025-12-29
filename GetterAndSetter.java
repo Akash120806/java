@@ -1,31 +1,21 @@
 class GetSet{
-   private  int id;
-     private String name;
-     private int app;
-
+    private  int id;
+    private String name;
     public String getname(){
         return name;
 
     }
     public void Setname(String na){
-        name=na;
+        String name=na;
     }
     public int getid() {
         return id;
 
     }
     public void Setid(int i){
-        
         id=i;
     }
-    void Setapp(){
-        
-    }
 
-     void Getapp(){
-
-    }
-    
 }
 
 

@@ -1,5 +1,5 @@
 class Solution {
-    static String delAlternate(String S) {
+     String delAlternate(String S) {
         String r="";
         for (int i=0;i<S.length();i++){
             if(i%2==0){
