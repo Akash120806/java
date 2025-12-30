@@ -1,3 +1,4 @@
+package BinaryTree;
 public class BinarySearchTree {
     public static class Node {
         Node left, right;
@@ -28,6 +29,17 @@ public class BinarySearchTree {
         inorder(root.right);
     }
 
+   /* public static boolean Search(Node root, int key) {
+        if (root.data > key) {
+            return Search(root.left, key);
+        } else if (root.data == key) {
+            System.out.println(root.data + "found");
+        } else if (root.data < key) {
+            return Search(root.right, key);
+        }
+        return false;
+    }*/ 
+
     public static void main(String[] args) {
         int[] arr = { 1, 2, 3, 4, 5 };
         Node root = null;
@@ -35,5 +47,11 @@ public class BinarySearchTree {
             root = insert(root, arr[i]);
         }
         inorder(root);
+        // if (Search(root, 2))
+        //     System.out.println("found");
+        // else {
+        //     System.out.println("not found");
+        // }
+        
     }
 }
