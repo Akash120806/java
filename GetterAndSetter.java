@@ -1,4 +1,4 @@
-class GetSet {
+ class GetSet {
     private int id;
     private String name;
     private int app;
@@ -10,7 +10,7 @@ class GetSet {
 
     public void Setname(String na) {
         String name = na;
-    }
+    } 
 
     public int getid() {
         return id;
