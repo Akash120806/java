@@ -13,6 +13,7 @@ public class Ceil_Bst {
             else{
                 y=root.data;
                 root=root.left;
+        
             }
         }
             return y;
