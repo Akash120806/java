@@ -1,3 +1,5 @@
+import BinaryTree.Solution;
+
 class Solution {
     public int lastIndex(String s) {
       //  String st=Integer.toString(s);
