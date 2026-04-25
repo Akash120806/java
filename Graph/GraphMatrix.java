@@ -11,7 +11,7 @@ class GraphMatrix {
 
     public void addEdge(int u, int v) {
         matrix[u][v] = 1;
-        matrix[v][u] = 1; // for undirected graph
+        matrix[v][u] = 1; //  undirected graph and put grpah  matrix[u][v] = 1 for directed
     }
 
     public void printMatrix() {
@@ -32,5 +32,5 @@ class GraphMatrix {
 
         g.printMatrix();
     }
-                                                                                                                                                                                                                                                                                            
+               
 }
