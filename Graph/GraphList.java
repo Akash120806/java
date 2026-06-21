@@ -22,7 +22,7 @@ class GraphList {
 
     public void printGraph() {
         for (int i = 0; i < vertices; i++) {
-            System.out.print(i + " -> ");
+            System.out.print(i + "->");
             for (int node : adj.get(i)) {
                 System.out.print(node + " ");
             }
@@ -36,6 +36,7 @@ class GraphList {
         g.addEdge(0, 1);
         g.addEdge(0, 2);
         g.addEdge(1, 3);
+
 
         g.printGraph();
     }
