@@ -1,4 +1,4 @@
-package BinaryTree;
+package DataStructre.BinaryTree;
 
 import java.util.ArrayList;
 import java.util.Stack;

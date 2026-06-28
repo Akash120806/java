@@ -1,3 +1,4 @@
+package DataStructre.BinaryTree;
 class Solution {
     int maxSum = Integer.MIN_VALUE;        // (1)
 

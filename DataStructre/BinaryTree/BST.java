@@ -1,4 +1,4 @@
-package BinaryTree;
+package DataStructre.BinaryTree;
 
 public class BST {
     class Node {

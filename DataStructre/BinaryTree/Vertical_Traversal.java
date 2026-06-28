@@ -1,3 +1,4 @@
+package DataStructre.BinaryTree;
 class Solution {
     public List<List<Integer>> verticalTraversal(TreeNode root) {
         List<int[]> list = new ArrayList<>();

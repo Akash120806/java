@@ -1,6 +1,6 @@
 import Queue;
 
-package BinaryTree;
+package DataStructre.BinaryTree;
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

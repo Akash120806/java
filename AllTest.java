@@ -1,4 +1,4 @@
-import BinaryTree.Solution;
+import DataStructre.BinaryTree.Solution;
 
 class Solution {
     public int lastIndex(String s) {
