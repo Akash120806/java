@@ -19,7 +19,7 @@ class Minimum_Window_Subsequence {
             while (i < n) {
                 if (s1.charAt(i) == s2.charAt(j)) {
                     j++;
-                    if (j == m)
+                    if (j == m) 
                         break;
                 }
                 i++;
